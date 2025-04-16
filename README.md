@@ -1,7 +1,7 @@
 # Ex03 Time Table
 ## Nmae: VASANTH N
 ## Reg No: 212224110060
-## Date:
+## Date:12/04/2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
